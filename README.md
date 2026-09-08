@@ -1,4 +1,4 @@
-### Merhaba, ben Aykut 👋
+### Merhaba, ben Aykut Yar 👋
 
 Bir dijital ajansta **Laravel** ile müşteri projeleri geliştiriyorum:
 kurumsal siteler, e-ticaret, çok dilli tanıtım siteleri ve bir CRM/faturalama
@@ -9,7 +9,7 @@ sistemi. Yazdıklarım canlıda, gerçek kullanıcılarda çalışıyor.
 
 ---
 
-#### 📁 [Portfolyo →](https://github.com/skcakt1907/portfolyo)
+#### 📄 [Özgeçmiş →](https://claude.ai/code/artifact/c4bf68c0-974f-4fe3-a2ce-1ef6289185af)  ·  📁 [Portfolyo →](https://github.com/skcakt1907/portfolyo)
 
 Projelerimi, çözdüğüm sorunları ve birkaç teknik örneği orada topladım.
 Müşteri kodu içermez; ne yaptığımı ve nasıl düşündüğümü anlatır.
